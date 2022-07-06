@@ -1,4 +1,8 @@
 
+* {
+    margin: 0px;
+    padding: 0px;
+ }
 body {
     font-family: 'Roboto Slab', serif;
     margin: 0;
@@ -22,8 +26,9 @@ body {
 .slide-show{
     background-image: url(images/donation5.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size:cover;
     height: 75vh;
+
 }
 .bg-opacity{
     background-image: linear-gradient(to right, rgba(2, 2, 2,.75), rgba(3, 3, 3, .95));

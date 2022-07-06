@@ -112,6 +112,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 .plans{
+    margin-top: 30px;
     display: flex;
 }
 .plans h3{

@@ -186,9 +186,10 @@ body {
 .button{
     border-top-right-radius: 5px;
     border-bottom-right-radius: 5px;
-    padding: 7px;
+    padding: 7px 15px;
     background-color: tomato;
     border: none;
+
 }
 .sub-design{
     border-radius: 5px;

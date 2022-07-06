@@ -135,6 +135,25 @@ body {
     background-color: rgb(240, 213, 191);
 }
 
+/* Section four properties*/
+.gallery{
+    display: flex;
+    margin-bottom: -150px;
+}
+.gallery h1{
+    font-weight:bolder;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.half-width{
+    width: 50%;
+    margin: 0 auto;
+    padding: 10%;
+}
+.half-width img{
+    padding: 10px 0;
+    width: 90%;
+}
 
 /*last section*/
 .subscibe{
@@ -145,7 +164,7 @@ body {
 }
 .subscibe h1{
     font-weight:bolder;
-    font-size: 35px;
+    font-size: 30px;
     font-family: Arial, Helvetica, sans-serif;
 }
 
